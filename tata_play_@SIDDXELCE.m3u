@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SET HD" group-title="INDIA",SET HD
+http://116.90.120.149:8000/play/a11u/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Zee TV HD" group-title="INDIA",Zee TV HD
+http://116.90.120.149:8000/play/a11v/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Plus HD" group-title="INDIA",Star Plus HD
+http://116.90.120.149:8000/play/a11w/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Colors HD" group-title="INDIA",Colors HD
+http://116.90.120.149:8000/play/a11y/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="SAB HD" group-title="INDIA",SAB HD
+http://116.90.120.149:8000/play/a128/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Bharat HD" group-title="INDIA",Star Bharat HD
+http://116.90.120.149:8000/play/a13b/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="& TV HD" group-title="INDIA",& TV HD
+http://116.90.120.149:8000/play/a133/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="TLC HD" group-title="INDIA",TLC HD
+http://116.90.120.149:8000/play/a11g/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="ID" group-title="INDIA",ID
+http://116.90.120.149:8000/play/a119/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Channel Num 118" group-title="INDIA",Channel Num 118
+http://116.90.120.149:8000/play/a118/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Sony Max HD" group-title="INDIA",Sony Max HD
+http://116.90.120.149:8000/play/a123/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Gold HD" group-title="INDIA",Star Gold HD
+http://116.90.120.149:8000/play/a12a/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Gold Select HD" group-title="INDIA",Star Gold Select HD
+http://116.90.120.149:8000/play/a131/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Gold 2" group-title="INDIA",Star Gold 2
+http://116.90.120.149:8000/play/a12b/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Gold Romance" group-title="INDIA",Star Gold Romance
+http://116.90.120.149:8000/play/a12c/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="& Pictures HD" group-title="INDIA",& Pictures HD
+http://116.90.120.149:8000/play/a132/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Sony Pix HD" group-title="INDIA",Sony Pix HD
+http://116.90.120.149:8000/play/a138/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Movies HD" group-title="INDIA",Star Movies HD
+http://116.90.120.149:8000/play/a13a/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Movies Select HD" group-title="INDIA",Star Movies Select HD
+http://116.90.120.149:8000/play/a139/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="MNX" group-title="INDIA",MNX
+http://116.90.120.149:8000/play/a11e/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="MNX HD" group-title="INDIA",MNX HD
+http://116.90.120.149:8000/play/a11m/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="MN HD+" group-title="INDIA",MN HD+
+http://116.90.120.149:8000/play/a11k/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Movies Now HD" group-title="INDIA",Movies Now HD
+http://116.90.120.149:8000/play/a11f/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="& Xplor HD" group-title="INDIA",& Xplor HD
+http://116.90.120.149:8000/play/a11o/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="MTV HD" group-title="INDIA",MTV HD
+http://116.90.120.149:8000/play/a136/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="National Geo HD" group-title="INDIA",National Geo HD
+http://116.90.120.149:8000/play/a115/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="BBC EARTH HD" group-title="INDIA",BBC EARTH HD
+http://116.90.120.149:8000/play/a130/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Discovery HD" group-title="INDIA",Discovery HD
+http://116.90.120.149:8000/play/a11a/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Discovery Science" group-title="INDIA",Discovery Science
+http://116.90.120.149:8000/play/a11b/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Discovery Turbo" group-title="INDIA",Discovery Turbo
+http://116.90.120.149:8000/play/a11d/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Wild HD" group-title="INDIA",Wild HD
+http://116.90.120.149:8000/play/a11h/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="History TV18 HD" group-title="INDIA",History TV18 HD
+http://116.90.120.149:8000/play/a12z/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="CN HD+" group-title="INDIA",CN HD+
+http://116.90.120.149:8000/play/a114/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Disney Channel" group-title="INDIA",Disney Channel
+http://116.90.120.149:8000/play/a124/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Disney Channel HD" group-title="INDIA",Disney Channel HD
+http://116.90.120.149:8000/play/a11r/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Nick Jr" group-title="INDIA",Nick Jr
+http://116.90.120.149:8000/play/a12d/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Sonic" group-title="INDIA",Sonic
+http://116.90.120.149:8000/play/a12e/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Nick HD+" group-title="INDIA",Nick HD+
+http://116.90.120.149:8000/play/a11j/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Zee Talkies HD" group-title="INDIA",Zee Talkies HD
+http://116.90.120.149:8000/play/a116/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Zee Power HD" group-title="INDIA",Zee Power HD
+http://116.90.120.149:8000/play/a11p/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Zee Thirai HD" group-title="INDIA",Zee Thirai HD
+http://116.90.120.149:8000/play/a11q/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Sports Ten 5" group-title="INDIA",Sports Ten 5
+http://116.90.120.149:8000/play/a117/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Sports 2 HD" group-title="INDIA",Star Sports 2 HD
+http://116.90.120.149:8000/play/a120/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Sports 1 HD Hindi" group-title="INDIA",Star Sports 1 HD Hindi
+http://116.90.120.149:8000/play/a122/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Unites Sports 1 HD" group-title="INDIA",Unites Sports 1 HD
+http://116.90.120.149:8000/play/a125/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Sports Ten 1" group-title="INDIA",Sports Ten 1
+http://116.90.120.149:8000/play/a126/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Unites Sports 2 HD" group-title="INDIA",Unites Sports 2 HD
+http://116.90.120.149:8000/play/a129/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Sports Ten 2 HD" group-title="INDIA",Sports Ten 2 HD
+http://116.90.120.149:8000/play/a137/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="United Sports 1" group-title="INDIA",United Sports 1
+http://116.90.120.149:8000/play/a11l/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Sports Ten 1 HD" group-title="INDIA",Sports Ten 1 HD
+http://116.90.120.149:8000/play/a11t/index.m3u8?@SIDDXELCE
+#EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="INDIA",Star Sports 1 HD
+http://116.90.120.149:8000/play/a11x/index.m3u8?@SIDDXELCE
