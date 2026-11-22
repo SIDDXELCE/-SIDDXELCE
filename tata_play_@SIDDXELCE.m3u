@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+Playlist name : tata_play_@SIDDXELCE
+Developed by: Binge
+Telegram group : https://t.me/@SIDDXELCE
+Last Updated: 17:00:47       22-11-2026
+
 #EXTINF:-1 tvg-name="SET HD" group-title="INDIA",SET HD
 http://116.90.120.149:8000/play/a11u/index.m3u8?@SIDDXELCE
 #EXTINF:-1 tvg-name="Zee TV HD" group-title="INDIA",Zee TV HD
